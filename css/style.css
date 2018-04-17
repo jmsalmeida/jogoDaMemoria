@@ -1,0 +1,15 @@
+.principal {
+    border: 1px solid black;
+}
+
+.linha { 
+    display: flex;
+    justify-content: space-around;
+}
+
+.carta {
+    width: 200px;
+    height: 200px;
+    border: 1px dotted black;
+    margin: 50px 0;
+}
